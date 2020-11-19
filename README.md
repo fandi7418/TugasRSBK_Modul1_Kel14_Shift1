@@ -4,5 +4,5 @@ Pengenalan Javascript terdapat script OnClick, filter array, includes(), toLower
 
 Praktikum RSBK - KELOMPOK 14
 
-M. Gesit Alifandi / 21120117120031
-Zulfikar Isnanto / 21120117140011
+1. M. Gesit Alifandi / 21120117120031
+2. Zulfikar Isnanto / 21120117140011
